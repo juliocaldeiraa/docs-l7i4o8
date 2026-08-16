@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-9dcnag.cuansalam.sbs/sitemap.xml
